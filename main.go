@@ -38,7 +38,7 @@ var (
 		IceServers: []webrtc.RTCIceServer{
 			{
 				URLs: []string{
-					"stun:stun.l.google.com:19302",
+					"stun:108.177.15.127:19302",
 				},
 			},
 		},
