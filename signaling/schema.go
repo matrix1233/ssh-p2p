@@ -1,7 +1,7 @@
 package signaling
 
 // URI default signaling server
-const URI = "stun.l.google.com:19302"
+const URI = "stun:stun.l.google.com:19302"
 
 // ConnectInfo SDP by offer or answer
 type ConnectInfo struct {
