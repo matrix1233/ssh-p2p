@@ -38,7 +38,26 @@ var (
 		IceServers: []webrtc.RTCIceServer{
 			{
 				URLs: []string{
-					"stun:108.177.15.127:19302",
+					"stun:stun.l.google.com",
+					"stun:23.21.150.121:3478",
+"stun:iphone-stun.strato-iphone.de:3478",
+"stun:numb.viagenie.ca:3478",
+"stun:s1.taraba.net:3478",
+"stun:s2.taraba.net:3478",
+"stun:stun.12connect.com:3478",
+"stun:stun.12voip.com:3478",
+"stun:stun.1und1.de:3478",
+"sstun:tun.2talk.co.nz:3478",
+"stun:stun:stun.2talk.com:3478",
+"stun:stun.3clogic.com:3478",
+"stun:stun.3cx.com:3478",
+"stun:stun.freeswitch.org:3478",
+"stun:stun1.l.google.com:19302",
+"stun:stun1.voiceeclipse.net:3478",
+"stun:stun2.l.google.com:19302",
+"stun:stun3.l.google.com:19302",
+"stun:stun4.l.google.com:19302",
+
 				},
 			},
 		},
