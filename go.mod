@@ -1,4 +1,4 @@
-module github.com/nobonobo/ssh-p2p
+module github.com/matrix1233/ssh-p2p
 
 require (
 	github.com/google/go-cmp v0.2.0 // indirect
